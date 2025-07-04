@@ -1,0 +1,5 @@
+Stock Portfolio Summary
+SAI: 5 shares × $25.0 = $125.0
+AAPL: 45 shares × $180 = $8100
+
+Total Investment: $8225.0
